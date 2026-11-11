@@ -22,7 +22,7 @@ Before you begin, make sure you have:
 
 ## Sample Image
 
-![Sample Image](../Img/Sample%20Image.png)
+![Sample Image](/Img/Sample%20Image.png)
 
 ## Next Steps
 
