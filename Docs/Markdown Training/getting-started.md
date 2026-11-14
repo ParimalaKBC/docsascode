@@ -1,8 +1,10 @@
+
+
 # Getting Started
 
 ## Introduction
 
-Welcome to the Markdown Training Project. This guide introduces the basic features and documentation structure.
+This guide introduces the basic features and documentation structure.
 
 ## Prerequisites
 

@@ -1,3 +1,6 @@
+# docsascode
+Documentation project for implementing Docs-as-Code using Markdown, GitHub and Docusaurus
+
 # Website
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
@@ -41,3 +44,4 @@ GIT_USER=<Your GitHub username> npm run deploy
 ```
 
 If you are using GitHub Pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+
