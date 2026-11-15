@@ -1,10 +1,4 @@
----
-Id: Troubleshooting guide
-title: Troubleshooting guide
-sidebar_position:4
-description: Explore solutions to common issues when working with the Markdown Training Project.
-tags: [authoring]
----
+
 # Troubleshooting Guide
 
 ## Introduction
@@ -50,4 +44,4 @@ Use the following syntax:
 ## Related Topics
 
 - [Getting Started](getting-started.md)
-- [Product Overview](product-overview.md)
+- [Product Overview](Product-overview.md)

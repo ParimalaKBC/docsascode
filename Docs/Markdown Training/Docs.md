@@ -1,11 +1,4 @@
 
----
-Id: Markdown Training Project
-title: Markdown Training Project
-sidebar_position:1
-description: Explore documenttaion workspace
-tags: [authoring]
----
 
 # Markdown Training Project
 

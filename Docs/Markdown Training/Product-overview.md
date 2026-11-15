@@ -1,11 +1,4 @@
 
----
-Id: Product overview
-title: product overview
-sidebar_position:3
-description: Explore how technical writers can organize product information using Markdown.
-tags: [authoring]
----
 
 # Product Overview
 
@@ -33,4 +26,4 @@ This documentation is intended for users, technical writers, and team members le
 
 ## Related Topics
 
-Refer to the [Troubleshooting Guide](troubleshooting-guide.md) for help with common problems.
+Refer to the [Guides](Troubleshooting-guide.md) for help with common problems.

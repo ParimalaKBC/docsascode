@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcompany_docs=self.webpackChunkcompany_docs||[]).push([["7112"],{1690(o){o.exports=JSON.parse('{"metadata":{"permalink":"/docsascode/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

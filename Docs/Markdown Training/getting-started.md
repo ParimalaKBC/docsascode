@@ -1,12 +1,5 @@
 
 
----
-Id: Getting Started 
-title: Getting Started 
-sidebar_position:2
-description: Explore the basic features and documentation structure.
-tags: [authoring]
----
 # Getting Started
 
 ## Introduction
@@ -35,4 +28,4 @@ Before you begin, make sure you have:
 
 ## Next Steps
 
-Read the [Product Overview](product-overview.md) to learn about the project documentation examples.
+Read the [Product Overview](Product-overview.md) to learn about the project documentation examples.
