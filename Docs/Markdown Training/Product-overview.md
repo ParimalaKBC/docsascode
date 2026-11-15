@@ -1,4 +1,11 @@
 
+---
+Id: Product overview
+title: product overview
+sidebar_position:3
+description: Explore how technical writers can organize product information using Markdown.
+tags: [authoring]
+---
 
 # Product Overview
 

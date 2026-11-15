@@ -1,5 +1,12 @@
 
 
+---
+Id: Getting Started 
+title: Getting Started 
+sidebar_position:2
+description: Explore the basic features and documentation structure.
+tags: [authoring]
+---
 # Getting Started
 
 ## Introduction

@@ -1,4 +1,12 @@
 
+---
+Id: Markdown Training Project
+title: Markdown Training Project
+sidebar_position:1
+description: Explore documenttaion workspace
+tags: [authoring]
+---
+
 # Markdown Training Project
 
 Explore documentation workspace!
@@ -65,11 +73,11 @@ Follow this simple workflow when creating documentation:
 
 New to the project?
 
-Begin with [Getting Started](./getting-started.md).
+Begin with [Getting Started](getting-started.md).
 
-To understand the project structure, visit [Product Overview](./product-overview.md).
+To understand the project structure, visit [Product Overview](Product-overview.md).
 
-For practical instructions, explore the [Guides](./guides.md).
+For practical instructions, explore the [Guides](Troubleshooting-guide.md).
 
 ---
 

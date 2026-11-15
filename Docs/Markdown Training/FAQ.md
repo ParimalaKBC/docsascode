@@ -1,6 +1,10 @@
 
 ---
-sidebar position: 4
+Id: Frequentky Asked Questions
+title: FAQ
+sidebar_position:5
+description: One stop for your frequently asked questions
+tags: [authoring]
 ---
 # Frequently Asked Questions (FAQ)
 

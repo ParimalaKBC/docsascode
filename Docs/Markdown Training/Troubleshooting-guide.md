@@ -1,3 +1,10 @@
+---
+Id: Troubleshooting guide
+title: Troubleshooting guide
+sidebar_position:4
+description: Explore solutions to common issues when working with the Markdown Training Project.
+tags: [authoring]
+---
 # Troubleshooting Guide
 
 ## Introduction
