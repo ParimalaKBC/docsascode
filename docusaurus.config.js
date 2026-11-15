@@ -23,11 +23,12 @@ const config = {
   url: 'https://ParimalaKBC.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: 'docsascode',
+  baseUrl: '/docsascode/'
+,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Githublibrary', // Usually your GitHub org/user name.
+  organizationName: 'ParimalaKBC', // Usually your GitHub org/user name.
   projectName: 'docsascode', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -97,7 +98,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/githublibrary/docsascode',
+            href: 'https://github.com/ParimalaKBC/docsascode',
             label: 'GitHub',
             position: 'right',
           },
@@ -141,7 +142,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/githublibrary/docsascode',
+                href: 'https://github.com/ParimalaKBC/docsascode',
               },
             ],
           },
