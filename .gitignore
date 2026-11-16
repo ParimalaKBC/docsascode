@@ -144,6 +144,8 @@ vite.config.ts.timestamp-*
 
 # Astro generated types
 .astro/
+# Docusaurus generated files
+build/
 
-# Turbo Repo
-.turbo
+# Node.js dependencies
+node_modules/
